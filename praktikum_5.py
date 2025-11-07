@@ -1,7 +1,7 @@
 # vigenere_cipher_final.py
 # Implementasi Vigenere Cipher berbasis OOP (langsung tampil hasil)
-# Key = "renaldo sinag"
-# Pesan = "bang naga"
+# Key = "jonatan_simanjuntak"
+# Pesan = "230840009"
 
 class VigenereCipher:
     def __init__(self, key: str):
